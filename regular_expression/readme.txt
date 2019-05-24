@@ -19,4 +19,4 @@ This folder is designed to collect regular expression basic knowledeg.
 关于具体的正则表达式用法，可以参考我的个人博客：https://www.zhihu.com/people/peng-dong-cheng-38/posts
 
 【2019年5月24日更新】
-上传了微信群张帆整理的正则表达式速记.txt文档，花几分钟学习一下，就会懂很多。
+上传了微信群张帆整理的正则表达式速记.txt文档，花几分钟学习一下，就会懂很多，希望对大家对于正则表达式的理解有帮助。
