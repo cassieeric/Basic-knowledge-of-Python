@@ -1,3 +1,3 @@
 # Introduction
-This folder is mainly used to publish some basic knowledge of Python.
+This folder is mainly used to store some basic knowledge of Python.
 Hoping help you.
