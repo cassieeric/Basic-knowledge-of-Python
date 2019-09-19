@@ -1,5 +1,5 @@
 # Introduction
-This folder is designed to collect regular expression basic knowledege.
+This folder is designed to store regular expression basic knowledege.
 
 正则表达式初识，关于特殊字符的介绍 
 1、“^”代表的意思是限定以某个字符开头，具体用法可以参考这篇文章：Python正则表达式初识（一）。 
