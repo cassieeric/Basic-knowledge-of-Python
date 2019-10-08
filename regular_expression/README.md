@@ -28,6 +28,7 @@ This folder is designed to store regular expression basic knowledege.
 12、“[\u4E00-\u9FA5]” 这个区间代表的意思是汉字。具体用法可以参考这篇文章：Python正则表达式初识（九）。 
 
 13、“()”是用于提取子字符串用的，在正则表达式的每篇文章中都有提及。 
+
 14、“\d”的意思是代表数字类型。 
 关于具体的正则表达式用法，可以参考我的个人博客：https://www.zhihu.com/people/peng-dong-cheng-38/posts
 
