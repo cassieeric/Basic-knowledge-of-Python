@@ -1,5 +1,5 @@
 # Introduction
-This folder is designed to store regular expression basic knowledege.
+该文件夹主要用于存放正则表达式的相关知识。
 
 # 正则表达式初识，关于特殊字符的介绍 
 
