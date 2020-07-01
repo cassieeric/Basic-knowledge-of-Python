@@ -1,0 +1,5 @@
+raw = input("Please input your passwd: ")
+print(raw)
+print(type(raw))
+number = int(raw)
+print(type(number))
