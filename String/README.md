@@ -1,3 +1,3 @@
 # Introduction
-This folder is mainly about string basic knowledge.
+This folder is mainly about string and string format basic knowledge.
 
